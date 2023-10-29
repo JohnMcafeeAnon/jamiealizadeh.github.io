@@ -214,7 +214,7 @@ img {
    ------------------------------------------------------------- */
 
 .headline {
-  background: url(../images/Freeland1.jpg);
+  /*background: url(../images/Freeland1.jpg);*/
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -237,6 +237,37 @@ img {
 }
 
 .headline h1 {
+  font-size: 1rem;
+  text-transform: capitalize;
+  color: var(--anti-flash-white);
+  padding-left: 15px;
+}
+
+.headline2 {
+  /*background: url(../images/Freeland1.jpg);*/
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: 225px;
+  max-width: 446px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: space-between;
+}
+
+.headline2 p {
+  margin: 0;
+  padding: 15px;
+  background: var(--cornell-red);
+  color: var(--anti-flash-white);
+  font-size: 0.8rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.headline2 h1 {
   font-size: 1rem;
   text-transform: capitalize;
   color: var(--anti-flash-white);
