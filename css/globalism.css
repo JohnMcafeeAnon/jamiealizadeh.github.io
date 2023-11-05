@@ -239,7 +239,7 @@ img {
 .headline h1 {
   font-size: 1rem;
   text-transform: capitalize;
-  color: var(--anti-flash-white);
+  color: var(--smoky-black);
   padding-left: 15px;
 }
 
@@ -295,21 +295,18 @@ img {
 }
 
 .top-stories .headline-1 {
-  background: url(../images/politics1.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .top-stories .headline-2 {
-  background: url(../images/politics3.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .top-stories .headline-3 {
-  background: url(../images/politics6.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
