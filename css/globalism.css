@@ -315,6 +315,10 @@ img {
   background-size: cover;
 }
 
+.story {
+  border-bottom: 1px solid var(--smoky-black);
+}
+
 .story a {
   display: grid;
   grid-template: 
@@ -975,8 +979,8 @@ input[type='submit'] {
    * More - Wide screen(min-width: 56em)
    */
 
+
   .more a {
-    border-bottom: 1px solid var(--smoky-black);
     width: 75%;
     margin-left: 10px;
     color: var(--smoky-black);
