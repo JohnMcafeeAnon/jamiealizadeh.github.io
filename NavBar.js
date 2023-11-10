@@ -19,7 +19,7 @@ document.write("                <span class=\"screen-reader-text\">Expand child 
 document.write("              <ul class=\"sub-menu\">");
 document.write("                <li><a href=\"#\" title=\"Contact\">Contact<\/a><\/li>");
 document.write("                <li><a href=\"#\" title=\"Join Us\">Join Us!<\/a><\/li>");
-document.write("                <li><a href=\"#\" title=\"Support\">Support<\/a><\/li>");
+document.write("                <li><a href=\"support.html\" title=\"Support\">Support<\/a><\/li>");
 document.write("                <li><a href=\"#\" title=\"Book List\">Book List<\/a><\/li>");
 document.write("              <\/ul>");
 document.write("            <\/li>");

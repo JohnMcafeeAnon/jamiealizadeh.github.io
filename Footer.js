@@ -36,7 +36,7 @@ document.write("    <\/div> <!-- End of class=\"footer-links\" -->");
 document.write("");
 document.write("    <!-- Footer Credit -->");
 document.write("    <footer role=\"contentinfo\">");
-document.write("      <p>2019 &copy; The Canadian Populist<\/p>");
+document.write("      <p>2023 &copy; The Canadian Populist<\/p>");
 document.write("      <a class=\"scroll-top\" href=\"#top\"><\/a>");
 document.write("    <\/footer>");
 document.write("");
